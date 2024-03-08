@@ -10,4 +10,5 @@ export const PropostaSchema = new Schema({
     entrega: Date,
     dificuldade: Number,
     professor: Number,
+    turma: Number,
 })

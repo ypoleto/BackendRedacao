@@ -9,4 +9,5 @@ export class Proposta extends Document {
     entrega: Date
     dificuldade: number
     professor: number
+    turma: number
 }
